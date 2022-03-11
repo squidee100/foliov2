@@ -1,8 +1,14 @@
 :root {
     --primary: #ffffff;
+<<<<<<< Updated upstream
     --secondary: #161B22;
     --tertiary: #63a4f8;
     --background: #0D1117;
+=======
+    --secondary: #444444;
+    --tertiary: #63a4f8;
+    --background: #333333;
+>>>>>>> Stashed changes
     --destructive: #fc7a7a;
 }
 
